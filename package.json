@@ -1,0 +1,12 @@
+{
+  "name": "react_tutorial_square",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/naodai/react_tutorial_square.git",
+  "author": "naodai <zhao_brain@163.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1"
+  }
+}
